@@ -94,6 +94,8 @@ THE SOFTWARE.
 
 @angular/material/dialog
 
+@angular/material/progress-spinner
+
 @angular/material/tabs
 
 @angular/platform-browser
@@ -527,6 +529,9 @@ ngx-bootstrap/tooltip
 ngx-bootstrap/utils
 
 ngx-chips
+MIT
+
+ngx-color-picker
 MIT
 
 ngx-infinite-scroll
