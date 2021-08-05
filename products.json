@@ -86,27 +86,5 @@
          "XL",
          "XXL"
       ]
-   },
-   {
-      "id":0,
-      "images":[
-         "assets/images/ps4_console_white_1.png",
-         "assets/images/ps4_console_white_2.png",
-         "assets/images/ps4_console_white_3.png",
-         "assets/images/ps4_console_white_4.png"
-      ],
-      "name":"test",
-      "description":"How To Write Product Descriptions To Grow Sales [Samples Below + Updated in 2021]Get The Print VersionTired of scrolling? Download a PDF version for easier offline reading and sharing with coworkers.",
-      "firstImage":"",
-      "price":12,
-      "colors":[
-         
-      ],
-      "sizes":[
-         "S",
-         "SM",
-         "XL",
-         "XXL"
-      ]
    }
 ]
